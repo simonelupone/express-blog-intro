@@ -13,5 +13,8 @@ Creiamo il nostro blog personale e giorno dopo giorno lo potremo arricchire con 
 
 Numero minimo di push 7
 
+images from:
 
-[articles and images from skyf1.it](https://sport.sky.it/formula-1)
+[skyf1.it](https://sport.sky.it/formula-1)
+
+[theguardian.com](https://www.theguardian.com)
